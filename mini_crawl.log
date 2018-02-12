@@ -1,0 +1,200 @@
+2018-02-12 10:55:56,457 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081] is saved!
+2018-02-12 10:55:56,634 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page1.html] is saved!
+2018-02-12 10:55:56,818 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/page2.html] is saved!
+2018-02-12 10:55:56,978 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/page3.html] is saved!
+2018-02-12 10:55:57,140 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html] is saved!
+2018-02-12 10:55:57,310 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] is saved!
+2018-02-12 10:55:57,389 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] error!, error code is:[404]
+2018-02-12 10:55:57,475 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] is saved!
+2018-02-12 10:55:57,553 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] error!, error code is:[404]
+2018-02-12 10:55:57,640 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] is saved!
+2018-02-12 10:55:57,718 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] error!, error code is:[404]
+2018-02-12 10:55:57,799 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] is saved!
+2018-02-12 10:55:57,883 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] error!, error code is:[404]
+2018-02-12 10:55:57,960 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page2.html/2/index.html] is saved!
+2018-02-12 10:55:58,047 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/2/index.html] error!, error code is:[404]
+2018-02-12 10:55:58,128 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] is saved!
+2018-02-12 10:55:58,212 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] error!, error code is:[404]
+2018-02-12 10:55:58,293 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] is saved!
+2018-02-12 10:55:58,381 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] error!, error code is:[404]
+2018-02-12 10:55:58,467 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html] is saved!
+2018-02-12 10:55:58,629 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html] is saved!
+2018-02-12 10:55:58,798 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html] is saved!
+2018-02-12 10:55:58,977 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 10:55:59,147 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page1.html] is saved!
+2018-02-12 10:55:59,314 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page2.html] is saved!
+2018-02-12 10:55:59,486 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page3.html] is saved!
+2018-02-12 10:55:59,658 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/mirror/index.html] is saved!
+2018-02-12 10:55:59,835 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page1.html] is saved!
+2018-02-12 10:56:00,005 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page2.html] is saved!
+2018-02-12 10:56:00,176 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page3.html] is saved!
+2018-02-12 10:56:00,345 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/mirror/index.html] is saved!
+2018-02-12 10:56:00,513 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page1.html] is saved!
+2018-02-12 10:56:00,684 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page2.html] is saved!
+2018-02-12 10:56:00,859 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page3.html] is saved!
+2018-02-12 10:56:01,028 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/mirror/index.html] is saved!
+2018-02-12 10:56:01,189 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page1.html] is saved!
+2018-02-12 10:56:01,356 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page2.html] is saved!
+2018-02-12 10:56:01,525 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page3.html] is saved!
+2018-02-12 10:56:01,687 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 10:56:01,775 - mini_crawl.log - ERROR - crawl main thread finished!
+2018-02-12 11:03:56,042 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081] is saved!
+2018-02-12 11:03:56,219 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page1.html] is saved!
+2018-02-12 11:03:56,393 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/page2.html] is saved!
+2018-02-12 11:03:56,553 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page3.html] is saved!
+2018-02-12 11:03:56,723 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html] is saved!
+2018-02-12 11:03:56,895 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] is saved!
+2018-02-12 11:03:56,979 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] error!, error code is:[404]
+2018-02-12 11:03:57,060 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] is saved!
+2018-02-12 11:03:57,148 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] error!, error code is:[404]
+2018-02-12 11:03:57,225 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] is saved!
+2018-02-12 11:03:57,303 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] error!, error code is:[404]
+2018-02-12 11:03:57,389 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] is saved!
+2018-02-12 11:03:57,468 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] error!, error code is:[404]
+2018-02-12 11:03:57,554 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page2.html/2/index.html] is saved!
+2018-02-12 11:03:57,638 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/2/index.html] error!, error code is:[404]
+2018-02-12 11:03:57,719 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] is saved!
+2018-02-12 11:03:57,807 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] error!, error code is:[404]
+2018-02-12 11:03:57,883 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] is saved!
+2018-02-12 11:03:57,960 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] error!, error code is:[404]
+2018-02-12 11:03:58,048 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html] is saved!
+2018-02-12 11:03:58,217 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html] is saved!
+2018-02-12 11:03:58,386 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html] is saved!
+2018-02-12 11:03:58,555 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:03:58,720 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page1.html] is saved!
+2018-02-12 11:03:58,898 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page2.html] is saved!
+2018-02-12 11:03:59,067 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page3.html] is saved!
+2018-02-12 11:03:59,228 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/mirror/index.html] is saved!
+2018-02-12 11:03:59,397 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page1.html] is saved!
+2018-02-12 11:03:59,568 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page2.html] is saved!
+2018-02-12 11:03:59,743 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page3.html] is saved!
+2018-02-12 11:03:59,905 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/mirror/index.html] is saved!
+2018-02-12 11:04:00,073 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page1.html] is saved!
+2018-02-12 11:04:00,242 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page2.html] is saved!
+2018-02-12 11:04:00,410 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page3.html] is saved!
+2018-02-12 11:04:00,580 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/mirror/index.html] is saved!
+2018-02-12 11:04:00,740 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page1.html] is saved!
+2018-02-12 11:04:00,916 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page2.html] is saved!
+2018-02-12 11:04:01,092 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page3.html] is saved!
+2018-02-12 11:04:01,252 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:04:01,340 - mini_crawl.log - ERROR - crawl main thread finished!
+2018-02-12 11:05:13,329 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081] is saved!
+2018-02-12 11:05:13,498 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page1.html] is saved!
+2018-02-12 11:05:13,669 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page2.html] is saved!
+2018-02-12 11:05:13,840 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/page3.html] is saved!
+2018-02-12 11:05:14,013 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html] is saved!
+2018-02-12 11:05:14,185 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] is saved!
+2018-02-12 11:05:14,262 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] error!, error code is:[404]
+2018-02-12 11:05:14,341 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] is saved!
+2018-02-12 11:05:14,426 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] error!, error code is:[404]
+2018-02-12 11:05:14,512 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] is saved!
+2018-02-12 11:05:14,598 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] error!, error code is:[404]
+2018-02-12 11:05:14,677 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] is saved!
+2018-02-12 11:05:14,763 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] error!, error code is:[404]
+2018-02-12 11:05:14,842 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page2.html/2/index.html] is saved!
+2018-02-12 11:05:14,927 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/2/index.html] error!, error code is:[404]
+2018-02-12 11:05:15,006 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] is saved!
+2018-02-12 11:05:15,092 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] error!, error code is:[404]
+2018-02-12 11:05:15,178 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] is saved!
+2018-02-12 11:05:15,257 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] error!, error code is:[404]
+2018-02-12 11:05:15,337 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html] is saved!
+2018-02-12 11:05:15,514 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html] is saved!
+2018-02-12 11:05:15,682 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html] is saved!
+2018-02-12 11:05:15,851 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:05:16,020 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page1.html] is saved!
+2018-02-12 11:05:16,189 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page2.html] is saved!
+2018-02-12 11:05:16,357 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page3.html] is saved!
+2018-02-12 11:05:16,533 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/mirror/index.html] is saved!
+2018-02-12 11:05:16,695 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page1.html] is saved!
+2018-02-12 11:05:16,866 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page2.html] is saved!
+2018-02-12 11:05:17,034 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page3.html] is saved!
+2018-02-12 11:05:17,202 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/mirror/index.html] is saved!
+2018-02-12 11:05:17,378 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page1.html] is saved!
+2018-02-12 11:05:17,543 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page2.html] is saved!
+2018-02-12 11:05:17,712 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page3.html] is saved!
+2018-02-12 11:05:17,880 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/mirror/index.html] is saved!
+2018-02-12 11:05:18,049 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page1.html] is saved!
+2018-02-12 11:05:18,218 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page2.html] is saved!
+2018-02-12 11:05:18,386 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page3.html] is saved!
+2018-02-12 11:05:18,550 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:05:18,638 - mini_crawl.log - ERROR - crawl main thread finished!
+2018-02-12 11:05:28,806 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081] is saved!
+2018-02-12 11:05:28,983 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page1.html] is saved!
+2018-02-12 11:05:29,165 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page2.html] is saved!
+2018-02-12 11:05:29,332 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page3.html] is saved!
+2018-02-12 11:05:29,492 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html] is saved!
+2018-02-12 11:05:29,656 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] is saved!
+2018-02-12 11:05:29,742 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] error!, error code is:[404]
+2018-02-12 11:05:29,821 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] is saved!
+2018-02-12 11:05:29,900 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] error!, error code is:[404]
+2018-02-12 11:05:29,986 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] is saved!
+2018-02-12 11:05:30,074 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] error!, error code is:[404]
+2018-02-12 11:05:30,160 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] is saved!
+2018-02-12 11:05:30,236 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] error!, error code is:[404]
+2018-02-12 11:05:30,313 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page2.html/2/index.html] is saved!
+2018-02-12 11:05:30,401 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/2/index.html] error!, error code is:[404]
+2018-02-12 11:05:30,489 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] is saved!
+2018-02-12 11:05:30,573 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] error!, error code is:[404]
+2018-02-12 11:05:30,652 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] is saved!
+2018-02-12 11:05:30,738 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] error!, error code is:[404]
+2018-02-12 11:05:30,822 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html] is saved!
+2018-02-12 11:05:30,984 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html] is saved!
+2018-02-12 11:05:31,149 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html] is saved!
+2018-02-12 11:05:31,326 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:05:31,500 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page1.html] is saved!
+2018-02-12 11:05:31,669 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page2.html] is saved!
+2018-02-12 11:05:31,838 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page3.html] is saved!
+2018-02-12 11:05:32,007 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/mirror/index.html] is saved!
+2018-02-12 11:05:32,176 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page1.html] is saved!
+2018-02-12 11:05:32,339 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page2.html] is saved!
+2018-02-12 11:05:32,502 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page3.html] is saved!
+2018-02-12 11:05:32,672 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/mirror/index.html] is saved!
+2018-02-12 11:05:32,840 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page1.html] is saved!
+2018-02-12 11:05:33,009 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page2.html] is saved!
+2018-02-12 11:05:33,178 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page3.html] is saved!
+2018-02-12 11:05:33,351 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/mirror/index.html] is saved!
+2018-02-12 11:05:33,520 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page1.html] is saved!
+2018-02-12 11:05:33,688 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page2.html] is saved!
+2018-02-12 11:05:33,857 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page3.html] is saved!
+2018-02-12 11:05:34,026 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:05:34,108 - mini_crawl.log - ERROR - crawl main thread finished!
+2018-02-12 11:42:18,057 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081] is saved!
+2018-02-12 11:42:18,238 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page1.html] is saved!
+2018-02-12 11:42:18,409 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page2.html] is saved!
+2018-02-12 11:42:18,569 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page3.html] is saved!
+2018-02-12 11:42:18,738 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html] is saved!
+2018-02-12 11:42:18,907 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] is saved!
+2018-02-12 11:42:18,993 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_1.html] error!, error code is:[404]
+2018-02-12 11:42:19,072 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] is saved!
+2018-02-12 11:42:19,158 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_2.html] error!, error code is:[404]
+2018-02-12 11:42:19,237 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] is saved!
+2018-02-12 11:42:19,322 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page1.html/1/page1_3.html] error!, error code is:[404]
+2018-02-12 11:42:19,403 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] is saved!
+2018-02-12 11:42:19,487 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/page2_1.html] error!, error code is:[404]
+2018-02-12 11:42:19,564 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/page2.html/2/index.html] is saved!
+2018-02-12 11:42:19,652 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page2.html/2/index.html] error!, error code is:[404]
+2018-02-12 11:42:19,729 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] is saved!
+2018-02-12 11:42:19,812 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_1.html] error!, error code is:[404]
+2018-02-12 11:42:19,893 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] is saved!
+2018-02-12 11:42:19,971 - mini_crawl.log - ERROR - crawl url:[http://pycm.baidu.com:8081/page3.html/3/page3_4.html] error!, error code is:[404]
+2018-02-12 11:42:20,058 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html] is saved!
+2018-02-12 11:42:20,229 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html] is saved!
+2018-02-12 11:42:20,397 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html] is saved!
+2018-02-12 11:42:20,566 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:42:20,743 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page1.html] is saved!
+2018-02-12 11:42:20,904 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page2.html] is saved!
+2018-02-12 11:42:21,076 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/page3.html] is saved!
+2018-02-12 11:42:21,249 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page1.html/mirror/index.html] is saved!
+2018-02-12 11:42:21,416 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page1.html] is saved!
+2018-02-12 11:42:21,587 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page2.html] is saved!
+2018-02-12 11:42:21,755 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/page3.html] is saved!
+2018-02-12 11:42:21,924 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/page2.html/mirror/index.html] is saved!
+2018-02-12 11:42:22,093 - mini_crawl.log - INFO - thread:[thread_0], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page1.html] is saved!
+2018-02-12 11:42:22,254 - mini_crawl.log - INFO - thread:[thread_1], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page2.html] is saved!
+2018-02-12 11:42:22,423 - mini_crawl.log - INFO - thread:[thread_2], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/page3.html] is saved!
+2018-02-12 11:42:22,597 - mini_crawl.log - INFO - thread:[thread_5], url:[http://pycm.baidu.com:8081/mirror/index.html/page3.html/mirror/index.html] is saved!
+2018-02-12 11:42:22,769 - mini_crawl.log - INFO - thread:[thread_6], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page1.html] is saved!
+2018-02-12 11:42:22,934 - mini_crawl.log - INFO - thread:[thread_4], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page2.html] is saved!
+2018-02-12 11:42:23,112 - mini_crawl.log - INFO - thread:[thread_3], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/page3.html] is saved!
+2018-02-12 11:42:23,281 - mini_crawl.log - INFO - thread:[thread_7], url:[http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html/mirror/index.html] is saved!
+2018-02-12 11:42:23,364 - mini_crawl.log - ERROR - crawl main thread finished!
